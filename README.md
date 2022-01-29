@@ -1,4 +1,4 @@
-# third_project
+# Simple Counter Project
 
 A new Flutter project.
 
